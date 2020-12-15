@@ -44,7 +44,7 @@ Requirements: Java 11
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/fredericoahb/sds.git
 
 # change directory to backend project folder
 cd backend
@@ -54,11 +54,11 @@ cd backend
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Requirements: npm / yarn
 
 ```bash
 # clone repository
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/fredericoahb/sds.git
 
 # change directory to frontend web project folder
 cd front-web
