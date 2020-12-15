@@ -35,7 +35,7 @@ The application consists of a game preference survey, where data is collected in
 ## Deployment
 - Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
+- Databse: Postgresql
 
 # How to run
 
