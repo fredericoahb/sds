@@ -3,6 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/fredericoahb/sds)
 ![GitHub language count](https://img.shields.io/github/languages/count/fredericoahb/sds)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fredericoahb/sds)
+![GitHub repo size](https://img.shields.io/github/repo-size/fredericoahb/sds)
 
 # About this project
 
