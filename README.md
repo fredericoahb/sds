@@ -7,7 +7,7 @@
 
 # About this project
 
-https://wmazoni-sds1.netlify.app
+### <a href="https://wmazoni-sds1.netlify.app" target="_blank">Acesse aqui</a>
 
 Big Game Survey is a full stack web and mobile application.
 
